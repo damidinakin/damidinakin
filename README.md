@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Damilola Osundinakin 👋
+# Hi, I'm Damilola Osundinakin
 
 ## Aspiring Quality Assurance Tester
 
